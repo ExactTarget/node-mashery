@@ -2,6 +2,8 @@
 
 Client for Mashery API
 
+[![Build Status](https://secure.travis-ci.org/ExactTarget/node-mashery.png?branch=master)](http://travis-ci.org/ExactTarget/node-mashery)
+
 ## Getting Started
 Install the module with: `npm install mashery`
 
